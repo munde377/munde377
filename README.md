@@ -8,23 +8,22 @@
 
 <p align="center">
   <a href="mailto:mundemahesh76@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="tel:+918767421254"><img src="https://img.shields.io/badge/Phone-+91%208767421254-25D366?style=flat&logo=whatsapp&logoColor=white" /></a>
   <a href="https://github.com/munde377"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Open%20to-Data%20%7C%20ML%20%7C%20Python%20Roles-brightgreen?style=flat" />
+  <img src="https://img.shields.io/badge/Open%20to-Data%20Science%20%7C%20ML%20Roles-brightgreen?style=flat" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I'm a Computer Science graduate (2025) based in Pune, India, passionate about **Machine Learning, Data Science, and Generative AI**. I build predictive models, recommendation systems, and analytics tools that turn raw data into actionable business insights — and I'm actively looking for **Data Analyst / Data Science / ML Engineer** opportunities.
+Aspiring Data Scientist with practical experience in **Python, SQL, and Generative AI**. I've designed machine learning solutions including recommendation systems and predictive models for real-world scenarios, with a strong foundation in data analysis, model development, and problem-solving through data-driven approaches.
 
-- 🎓 B.E./B.Tech in Computer Science (2025)
-- 💻 Python | SQL | Machine Learning | Generative AI
-- 📊 Focused on data analysis, forecasting, and predictive modeling
-- 🤖 Exploring Deep Learning & LLM/RAG applications
-- 📍 Based in Pune, Maharashtra, India — open to remote/hybrid roles
-- 🌱 Actively building portfolio projects and applying to entry-level roles
+- 🎓 BCS in Computer Science, Dr. Babasaheb Ambedkar Marathwada University (2025)
+- 💻 Python | SQL | Machine Learning | Deep Learning | Generative AI
+- 📍 Based in Pune, Maharashtra, India
+- 🌱 Continuous learner with a focus on AI and data-driven technologies
+- 📫 mundemahesh76@gmail.com | +91 8767421254
 
 ---
 
@@ -46,45 +45,48 @@ I'm a Computer Science graduate (2025) based in Pune, India, passionate about **
 | Category | Skills |
 |---|---|
 | **Languages** | Python, SQL |
-| **Data Analysis** | Pandas, NumPy, EDA, Data Cleaning, ABC/Inventory Classification |
-| **Machine Learning** | Regression, Classification, Clustering, Recommendation Systems, Forecasting |
-| **Deep Learning** | ANN, CNN, RNN, LSTM (TensorFlow, PyTorch) |
+| **Data Science** | Pandas, NumPy, Data Cleaning, Exploratory Data Analysis (EDA) |
+| **Machine Learning** | Regression, Classification, Clustering, Recommendation Systems, Scikit-learn |
+| **Deep Learning** | ANN, CNN, RNN, LSTM, TensorFlow, PyTorch |
 | **Generative AI** | NLP, LLMs, Retrieval-Augmented Generation (RAG) |
-| **Tools** | Git, GitHub, Jupyter Notebook, VS Code |
+| **Tools** | Git, GitHub, VS Code, Jupyter Notebook |
 
 ---
 
 ### 📌 Featured Projects
 
-**📈 [Business Sales Performance Analytics](#)**
-End-to-end analytics project on the Superstore Sales dataset (2014–2017) — customer segmentation, sales forecasting, and ABC inventory classification to surface actionable business insights.
-`Python` `Pandas` `EDA` `Forecasting` `Segmentation`
+**🎬 [Movie Recommendation System](#)** — *Machine Learning*
+- Designed a content-based recommendation system using cosine similarity on movie metadata.
+- Analyzed over 5,000 records and applied feature engineering to enhance recommendation relevance.
+- Improved similarity matching through optimized vectorization and filtering techniques.
+- Created a basic interactive interface for real-time movie suggestions.
 
-**🎬 [Movie Recommendation System](#)**
-Content-based/collaborative filtering recommender built with data cleaning pipelines and similarity-based ranking.
-`Python` `Scikit-learn` `Pandas`
+`Python` `Scikit-learn` `Pandas` `Cosine Similarity`
 
-**🎓 [Student Performance Prediction](#)**
-Predictive model estimating student outcomes from academic and demographic features.
-`Python` `Scikit-learn` `EDA`
+**🎓 [Student Performance Prediction](#)** — *Machine Learning*
+- Built a regression model to estimate student academic performance using structured data.
+- Conducted exploratory data analysis, handled missing values, and selected key features.
+- Validated model performance using RMSE and R² metrics.
 
-**👥 Customer Churn Prediction**
-Classification model to identify at-risk customers using behavioral and transactional data.
-`Python` `Scikit-learn`
-
-**🤖 AI-Powered Smart Business Analytics Decision Assistant**
-GenAI-driven assistant that surfaces business insights and recommendations from data.
-`Python` `LLMs` `RAG`
+`Python` `Scikit-learn` `EDA` `Regression`
 
 > 💡 *Add live repo links in place of the `#` above once each project repo is public.*
 
 ---
 
-### 🌱 Currently Learning
+### 🎓 Education
 
-- Advanced Machine Learning & Deep Learning
-- Generative AI / LLM Applications
-- Data Engineering fundamentals
+**Bachelor of Computer Science** — Dr. Babasaheb Ambedkar Marathwada University *(2025)*
+
+---
+
+### 📜 Certifications
+
+- Generative AI Fundamentals (Online Certification)
+- Python for Data Science
+- SQL and Database Management
+- Machine Learning Fundamentals
+- Deep Learning with Python
 
 ---
 
@@ -101,8 +103,9 @@ GenAI-driven assistant that surfaces business insights and recommendations from 
 
 <p align="center">
   <a href="mailto:mundemahesh76@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="tel:+918767421254"><img src="https://img.shields.io/badge/Phone-+91%208767421254-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://github.com/munde377"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+<p align="center">📍 Pune, Maharashtra, India</p>
 
 <p align="center">⭐ Thanks for visiting my profile — feel free to explore my repos and reach out!</p>
