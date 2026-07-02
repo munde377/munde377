@@ -108,15 +108,6 @@ Aspiring **Data Scientist** with hands-on experience in **Python, SQL, Machine L
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=munde377&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
 
 # 📫 Let's Connect
 
